@@ -192,8 +192,3 @@ The template is defined in `emailTemplate.js` and can be customized as needed.
 ### Rate limiting
 - Gmail has sending limits (usually 500 emails per day for free accounts)
 - The service includes a 1-second delay between emails by default
-
-## License
-
-ISC
-
