@@ -2,6 +2,10 @@
 
 A Node.js service for scheduling and sending bulk emails using Nodemailer. Perfect for sending job applications or any scheduled email campaigns.
 
+## Overview
+
+This repository is designed to send bulk application emails to recruiters. It enables users to schedule and automatically send job application emails to multiple recruiters at specified dates and times, making the job application process more efficient and organized. Whether you're applying for internships, full-time positions, or reaching out to potential employers, this service helps streamline your outreach efforts by allowing you to compose your application once and schedule it to be sent to multiple recruiters simultaneously.
+
 ## Features
 
 - ✅ Schedule emails at specific dates and times
